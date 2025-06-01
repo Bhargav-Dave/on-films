@@ -1,1 +1,1 @@
-Sitemap: https://<your-github-username>.github.io/<repo-name>/sitemap.xml
+Sitemap: https://bhargav-dave.github.io/on-films/sitemap.xml
