@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "On Films"
+  site-url: https://bhargav-dave.github.io/on-films/
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Posts
+        href: posts/
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    grid:
+      margin-width: 200px
+ 
