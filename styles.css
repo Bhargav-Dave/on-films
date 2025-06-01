@@ -1,0 +1,30 @@
+/* Grid item card */
+.quarto-grid-item {
+  background-color: #1e1e1e; /* dark card background */
+  color: #f0f0f0;            /* light text */
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  transition: transform 0.2s, box-shadow 0.2s;
+  overflow: hidden;
+  text-align: center;
+}
+
+/* Poster image style */
+.quarto-grid-item img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-bottom: 2px solid #444;
+}
+
+/* Hover effect */
+.quarto-grid-item:hover {
+  transform: scale(1.03);
+  box-shadow: 0 6px 16px rgba(255,255,255,0.15);
+}
+
+/* Improve typography */
+body {
+  font-family: 'Fira Sans', sans-serif;
+}
+ 

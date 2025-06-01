@@ -3,8 +3,8 @@ project:
   output-dir: _site
 
 website:
-  title: "On Films"
-  site-url: https://bhargav-dave.github.io/on-films/
+  title: "My Movie Diary"
+  site-url: https://<your-github-username>.github.io/<repo-name>/
   navbar:
     left:
       - text: Home
@@ -14,8 +14,9 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme:
+      dark: solar
+      light: cosmo
     css: styles.css
     grid:
       margin-width: 200px
- 
