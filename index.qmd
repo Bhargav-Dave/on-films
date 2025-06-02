@@ -6,5 +6,4 @@ listing:
   fields: [image, title, date]
 ---
 
-Here's where I jot down my thoughts (mostly a stream of consciousness) about films that I watch daily. If you do end up reading them, hit me up! I'd love to talk about your thoughts.
-
+Journaling my thoughts here about the films I watch. 
