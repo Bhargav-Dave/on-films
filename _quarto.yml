@@ -10,7 +10,6 @@ website:
       - text: Home
         href: index.qmd
 
-
 format:
   html:
     theme:
@@ -18,4 +17,5 @@ format:
       light: flatly
     css: styles.css
     grid:
-      margin-width: 200px
+      margin-width: 200px     # unchanged side margin
+      body-width: 1200px      # new: allows wider grid layout
