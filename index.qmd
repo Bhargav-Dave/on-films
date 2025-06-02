@@ -6,4 +6,4 @@ listing:
   fields: [image, title, date]
 ---
 
-Journaling my thoughts here about the films I watch. 
+All views, personal.

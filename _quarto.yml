@@ -14,8 +14,8 @@ website:
 format:
   html:
     theme:
-      dark: cyborg
-      light: materia
+      dark: darkly
+      light: flatly
     css: styles.css
     grid:
       margin-width: 200px
